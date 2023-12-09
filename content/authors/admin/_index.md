@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD student in Machine Learning @ULiège
+role: PhD student in Machine Learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Montefiore Institue, Univeristy of Liège
+  - name: Montefiore Institute, ULiège
     url: montefiore.uliege.be
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,14 +29,17 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Multi-agent reinforcement learning
+  - Machine learning
+  - Reinforcement learning
+  - Multi-agent RL
+  - Real-world application
 
 # Education to show in About widget
 education:
   courses:
-    # course: PhD in Machine Learning
-    #  institution: Faculty of applied sciences, University of Liège, Belgium
-    #  year: 
+    - course: PhD in Machine Learning
+      institution: Faculty of applied sciences, University of Liège, Belgium
+      year: 2018 - Now
     - course: Msc in computer science and engineering
       institution: Faculty of applied sciences, University of Liège, Belgium
       year: 2018
@@ -46,7 +49,7 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-# skills:
+skills:
 #   - name: Technical
 #     items:
 #       - name: Python
@@ -118,4 +121,5 @@ social:
 highlight_name: true
 ---
 
-I am currently a PhD student in machine learning in Liège, focusing in multi-agent reinforcement learning. My research focus on training teams of agents, that can either evolve in a fully cooperative or mixed cooperative-competitive environments.{style="text-align: justify;"}
+I am currently a PhD student in machine learning in Liège, focusing on multi-agent reinforcement learning. My research focus on training teams of agents with multi-agent reinforcement, that can either evolve in a fully cooperative or mixed cooperative-competitive environments. I really enjoy real-world applications. 
+{style="text-align: justify;"}
