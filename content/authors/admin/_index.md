@@ -40,7 +40,7 @@ education:
     - course: PhD in Machine Learning
       institution: Faculty of applied sciences, University of Liège, Belgium
       year: since 2018
-    - course: MSc in Computer Science and Engineering
+    - course: MSc in CS and Engineering
       institution: Faculty of applied sciences, University of Liège, Belgium
       year: 2018
     - course: BSc in Engineering
