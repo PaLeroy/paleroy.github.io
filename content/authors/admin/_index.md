@@ -31,19 +31,19 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
   - Machine learning
   - Reinforcement learning
-  - Multi-agent RL
-  - Real-world application
+  - Multi-agent systems
+  - Real-world applications
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Machine Learning
       institution: Faculty of applied sciences, University of Liège, Belgium
-      year: 2018 - Now
-    - course: Msc in computer science and engineering
+      year: since 2018
+    - course: MSc in Computer Science and Engineering
       institution: Faculty of applied sciences, University of Liège, Belgium
       year: 2018
-    - course: BSc in engineering
+    - course: BSc in Engineering
       institution: Faculty of applied sciences, University of Liège, Belgium
       year: 2016
 
@@ -115,7 +115,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV_Pascal_LEROY.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
