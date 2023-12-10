@@ -33,17 +33,8 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -55,27 +46,30 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research engineer
+          company: Montefiore Institute
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: 
+          location: Liège, Belgium
+          date_start: '2018-08-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              Research projects with industrial consortia of Belgian companies:
+              * IRIS: responsible for the design of environments and algorithms for multi-agent reinforcement learning for decision-aid. 
+                Partners: JCD, ACIC, Multitel, ERM. 
+              * IADAS: responsible for reducing and optimising neural networks for embedding in drones and satellites. 
+                Partners: Deltatec, ALX Systems, Spacebel, Multitel.
+        - title: Student trainee
+          company: X-Ray Imaging Solutions 
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: 
+          location: Liege, Belgium
+          date_start: '2017-10-01'
+          date_end: '2018-07-31'
+          description: |2-
+              * Development of image processing filters dedicated to X-ray image optimisation.
+              * Master thesis: Automatic defect recognition in X-ray imaging by machine learning.
+
     design:
       columns: '2'
 ---

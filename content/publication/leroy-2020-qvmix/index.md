@@ -13,4 +13,10 @@ publishDate: '2023-12-09T15:46:46.296472Z'
 publication_types:
 - article-journal
 publication: '*AAAI-21 Workshop on Reinforcement Learning in Games*'
+links:
+- name: URL
+  url: https://arxiv.org/abs/2012.12062
+- name: CODE
+  url : https://github.com/PaLeroy/QVMix
+
 ---

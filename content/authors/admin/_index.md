@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-I am currently a PhD student in machine learning in Liège, focusing on multi-agent reinforcement learning. My research focus on training teams of agents with multi-agent reinforcement, that can either evolve in a fully cooperative or mixed cooperative-competitive environments. I really enjoy real-world applications. 
+I am currently a PhD student in machine learning, focusing on multi-agent reinforcement learning. My research focus on training teams of agents with multi-agent reinforcement, that can either evolve in a fully cooperative or mixed cooperative-competitive environments. I really enjoy real-world applications. 
 {style="text-align: justify;"}
