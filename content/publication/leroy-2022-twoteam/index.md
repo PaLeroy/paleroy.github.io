@@ -11,8 +11,8 @@ publication_types:
 - paper-conference
 publication: '*Deep Reinforcement Learning Workshop NeurIPS 2022*'
 links:
-  - name: URL
+  - name: arXiv
     url : https://arxiv.org/abs/2211.11886
-  - name: CODE
+  - name: Code
     url: https://github.com/PaLeroy/competSMAC
 ---

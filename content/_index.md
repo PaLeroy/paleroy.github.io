@@ -47,7 +47,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research engineer
-          company: Montefiore Institute
+          company: Montefiore Institute, University of Liège
           company_url: ''
           company_logo: 
           location: Liège, Belgium
@@ -56,8 +56,8 @@ sections:
           description: |2-
               Research projects with industrial consortia of Belgian companies:
               * IRIS: responsible for the design of environments and algorithms for multi-agent reinforcement learning for decision-aid. 
-                Partners: JCD, ACIC, Multitel, ERM. 
-              * IADAS: responsible for reducing and optimising neural networks for embedding in drones and satellites. 
+                Partners: JCD, ACIC, Multitel, ERM.
+              * IADAS: responsible for reducing and optimising convolutional neural networks for embedding in drones and satellites.
                 Partners: Deltatec, ALX Systems, Spacebel, Multitel.
         - title: Student trainee
           company: X-Ray Imaging Solutions 
