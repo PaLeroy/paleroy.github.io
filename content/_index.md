@@ -63,7 +63,7 @@ sections:
           company: X-Ray Imaging Solutions 
           company_url: ''
           company_logo: 
-          location: Liege, Belgium
+          location: Liège, Belgium
           date_start: '2017-10-01'
           date_end: '2018-07-31'
           description: |2-
