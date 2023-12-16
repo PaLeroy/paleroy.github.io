@@ -69,7 +69,15 @@ sections:
           description: |2-
               * Development of image processing filters dedicated to X-ray image optimisation.
               * Master thesis: Automatic defect recognition in X-ray imaging by machine learning.
-
     design:
       columns: '2'
+  - block: markdown
+    id: cooking
+    content:
+      title: Cooking is one of my hobby!
+      subtitle: 'Check out my [insta](https://www.instagram.com/les.petits.plaisirs.de.pascal/) for more.'
+      text: |-
+        {{< gallery album="cooking_pic" >}}
+    design:
+      columns: '1'
 ---
