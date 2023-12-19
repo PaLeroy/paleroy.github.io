@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-I am currently a PhD student in machine learning. My research focus is training teams of agents with multi-agent reinforcement, that can either evolve in fully cooperative or mixed cooperative-competitive environments. I really enjoy working on real-world applications.
+I am a PhD student in **machine learning**. My research focuses on training teams of agents with **multi-agent reinforcement learning**, which can evolve in fully cooperative or mixed cooperative-competitive environments. I am particularly passionate about applying reinforcement learning to address **real-world** challenges and contribute to **impactful applications**. I am currently writing my PhD thesis and exploring opportunities for a position abroad to further contribute to the development of concrete applications.
 {style="text-align: justify;"}
