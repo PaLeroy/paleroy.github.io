@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD student in Machine Learning
+role: PhD in Machine Learning
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -39,7 +39,7 @@ education:
   courses:
     - course: PhD in Machine Learning
       institution: Faculty of applied sciences, University of Liège, Belgium
-      year: since 2018
+      year: 2024
     - course: MSc in CS and Engineering
       institution: Faculty of applied sciences, University of Liège, Belgium
       year: 2018
@@ -121,5 +121,5 @@ social:
 highlight_name: true
 ---
 
-I am a PhD student in **machine learning**. My research focuses on training teams of agents with **multi-agent reinforcement learning**, which can evolve in fully cooperative or mixed cooperative-competitive environments. I am particularly passionate about applying reinforcement learning to address **real-world** challenges and contribute to **impactful applications**. I am currently writing my PhD thesis and exploring opportunities for a position abroad to further contribute to the development of concrete applications.
+I completed a Ph.D. in **machine learning** in June 2024. My research focuses on training teams of agents with **multi-agent reinforcement learning**. Aside, I conducted projects on **neural network compression** for computer vision and **robust reinforcement learning** for drone control applications. I am particularly passionate about applying machine learning to address **real-world** challenges and contribute to **impactful applications**. I am exploring opportunities abroad to contribute to the development of concrete projects. My main motivation is to deepen my understanding of deployed ML applications.
 {style="text-align: justify;"}
