@@ -17,14 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Researcher @ULiège, CEO @Belerion
+role: Co-Founder & CEO
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Belerion
-    url: belerion.ai
-  - name: Montefiore Institute, ULiège
-    url: montefiore.uliege.be
+    url: https://belerion.ai
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
