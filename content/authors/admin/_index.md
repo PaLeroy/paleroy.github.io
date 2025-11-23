@@ -120,7 +120,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am the Co-Founder & CEO of [**Belerion**][belerion.ai], a startup developing **AI technologies for defence**. We specialize in **counter-UAS solutions** powered by multi-agent reinforcement learning, with expertise in simulating both defenders and attackers to design resilient strategies. Our work spans the entire value chain of effectors: from **sensors** for precise detection and identification, to enabling **super-human control** with decision-aid systems, and **optimizing performance at the system level** through data fusion and operational planning.
+I am the Co-Founder & CEO of [**Belerion**](belerion.ai), a startup developing **AI technologies for defence**. We specialize in **counter-UAS solutions** powered by multi-agent reinforcement learning, with expertise in simulating both defenders and attackers to design resilient strategies. Our work spans the entire value chain of effectors: from **sensors** for precise detection and identification, to enabling **super-human control** with decision-aid systems, and **optimizing performance at the system level** through data fusion and operational planning.
 
 I completed a Ph.D. in **machine learning** in June 2024. My research focuses on training teams of agents with **multi-agent reinforcement learning**. Aside, I conducted projects on **neural network compression** for computer vision and **robust reinforcement learning** for drone control applications. I am particularly passionate about applying machine learning to address **real-world** challenges.
 {style="text-align: justify;"}
