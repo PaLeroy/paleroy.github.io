@@ -17,10 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD in Machine Learning
+role: Researcher @ULiège, CEO @Belerion
 
 # Organizations/Affiliations to show in About widget
 organizations:
+  - name: Belerion
+    url: belerion.ai
   - name: Montefiore Institute, ULiège
     url: montefiore.uliege.be
 
